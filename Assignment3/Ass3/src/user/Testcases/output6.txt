@@ -1,0 +1,31 @@
+
+Child mm1[0]:A
+Parent mm1[0]:A
+Child mm1[1]:B
+Parent mm1[4096]:A
+Child mm1[4096]:A
+Parent mm1[1]:B
+Child mm1[4097]:B
+Parent mm1[4097]:B
+Child mm1[0]:A
+Parent mm1[4096]:A
+Child mm1[1]:B
+Parent mm1[4097]:B
+
+
+        ###########     VM Area Details         ################
+        VM_Area:[3]             MMAP_Page_Faults[2]
+
+        [0x180200000    0x180201000]    R W _
+        [0x180203000    0x180205000]    R W _
+
+        ###############################################
+
+
+
+        ###########     VM Area Details         ################
+        VM_Area:[3]             MMAP_Page_Faults[2]
+
+        [0x180201000    0x180205000]    R W _
+
+        ###############################################

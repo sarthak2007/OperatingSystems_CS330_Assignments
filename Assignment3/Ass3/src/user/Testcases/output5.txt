@@ -1,0 +1,13 @@
+Child mm1[0]:A
+Child mm1[1]:A
+Child : A
+Child's Child x
+Child : a
+Child : Parent mm1[0]:A
+Parent mm1[1]:A
+Child's Child's effect New Child
+0
+New Child
+New Child
+0
+1

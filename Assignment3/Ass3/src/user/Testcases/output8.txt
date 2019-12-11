@@ -1,0 +1,10 @@
+Child mm1[0]:A
+Child mm1[1]:B
+ticks = 45 swapper_invocations = 0 context_switches = 43 lw_context_switches = 0
+syscalls = 6 page_faults = 3 used_memory = 0 num_processes = 2
+copy-on-write faults = 1 allocated user_region_pages = 14
+Parent mm1[0]:A
+Parent mm1[1]:B
+ticks = 1043 swapper_invocations = 0 context_switches = 45 lw_context_switches = 0
+syscalls = 11 page_faults = 5 used_memory = 0 num_processes = 1
+copy-on-write faults = 2 allocated user_region_pages = 15
